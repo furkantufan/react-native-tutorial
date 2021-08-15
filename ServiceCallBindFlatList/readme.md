@@ -17,7 +17,9 @@
 
 * Uygulama Çıktısı:
 
-![SVID_20210815_133321_1](https://user-images.githubusercontent.com/33198774/129476368-84b0eb93-7ee1-48be-bf9e-de690688ec8b.gif)
+https://user-images.githubusercontent.com/33198774/129479224-b0a178d3-b865-4415-98f8-8e26ea4bd763.mp4
+
+
 
 
 
